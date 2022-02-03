@@ -1,2 +1,2 @@
-# izi-cp-lib
-Command line tool for dealing with reference code fastly in competitive programming contests
+# code-injection
+Command-line automation tool to enhance productivity in competitive programming contests.
